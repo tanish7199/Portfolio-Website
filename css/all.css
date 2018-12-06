@@ -329,12 +329,12 @@ h2.slogan{
 }
 .progress li span.android{width: 70%;}
 .progress li span.java{width: 90%;}
-.progress li span.cpp{width: 100%;}
-.progress li span.c{width: 100%;}
+.progress li span.cpp{width: 90%;}
+.progress li span.c{width: 90%;}
 .progress li span.sql{width: 70%;}
 .progress li span.javascript{width: 55%;}
 .progress li span.css{width: 90%;}
-.progress li span.html{width: 100%;}
+.progress li span.html{width: 90%;}
 .education_inner{
 	margin-left: 60px;
 	margin-bottom: 10px;
