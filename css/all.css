@@ -719,6 +719,10 @@ h2.slogan {
 .box_contact span.skype {
 	background: url(../images/icon_skype.png) no-repeat;
 }
+.box_contact span.resume {
+	background: url(../images/icon_down.png) no-repeat;
+	margin-right: 90px;
+}
 
 
 /*footer
@@ -943,6 +947,10 @@ h2.slogan {
 	}
 	.box_contact span.skype {
 		background-image: url(../images/icon_skype@x2.png);
+		background-size: 54px 51px;
+	}
+	.box_contact span.resume {
+		background-image: url(../images/icon_downx2.png);
 		background-size: 54px 51px;
 	}
 	/* begin add	 */
